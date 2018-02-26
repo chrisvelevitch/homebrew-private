@@ -1,9 +1,9 @@
 cask 'unclutter' do
   version '2.1.6d'
   
-  url "https://unclutterapp.com/files/Unclutter.zip"
+  url "https://www.unclutterapp.com/files/Unclutter.zip"
   name 'Unclutter'
-  homepage 'https://unclutterapp.com/'
+  homepage 'https://www.unclutterapp.com/'
 
   app 'Unclutter.app'
   
