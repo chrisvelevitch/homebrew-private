@@ -6,6 +6,6 @@ cask 'brother_mfcj6510dw_printer' do
   homepage "http://support.brother.com"
 
   container "Brother_PrinterDrivers_Inkjet10_1_2_0.dmg"
-  install "Brother_PrinterDrivers_Inkjet10.pkg"
+  pkg "Brother_PrinterDrivers_Inkjet10.pkg"
   
 end
